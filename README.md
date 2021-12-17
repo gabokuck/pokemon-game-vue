@@ -1,4 +1,6 @@
-# 04-pokemon-game
+# Pokemon Game Vue
+
+Proyecto de quiz de pokem en vue
 
 ## Project setup
 ```
